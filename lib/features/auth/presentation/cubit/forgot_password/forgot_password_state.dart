@@ -1,0 +1,15 @@
+import 'package:flutter/foundation.dart';
+
+@immutable
+sealed class ForgotPasswordState {}
+
+class ForgotPasswordInitial extends ForgotPasswordState {}
+
+class ForgotPasswordLoading extends ForgotPasswordState {}
+
+class ForgotPasswordSuccess extends ForgotPasswordState {}
+
+class ForgotPasswordFailure extends ForgotPasswordState {
+  final String message;
+  ForgotPasswordFailure(this.message);
+}

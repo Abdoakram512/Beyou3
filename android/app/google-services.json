@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053613180461",
+    "project_id": "beyou3",
+    "storage_bucket": "beyou3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053613180461:android:bb83a3c2d25c45380d1aa4",
+        "android_client_info": {
+          "package_name": "tech.brmja.beyou3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa9qKLteV3Yhn-JIppvYl3Sk_FDyYsy88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
