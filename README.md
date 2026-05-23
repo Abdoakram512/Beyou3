@@ -235,7 +235,3 @@ flutter build apk --release
 7. Use Cubit for state management
 
 ---
-
-<p align="center">
-  Made with ❤️ for Sadat City | صُنع بحب لمدينة السادات
-</p>
